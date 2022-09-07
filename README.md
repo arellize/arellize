@@ -40,7 +40,7 @@
 
 <h3 align="center">🪄 Ect Tech 🪄</h3>
 <p align="center">
-  <img alt="aws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+  <img alt="aws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arellize&show_icons=true&theme=radical)
